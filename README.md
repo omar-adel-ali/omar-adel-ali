@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/omar-adel-ali">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+.NET+Developer;AI+%2F+ML+Enthusiast;Computer+Science+Student;Lifelong+Learner" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+.NET+Developer;AI+%2F+ML+Enthusiast;Passionate+about+Data+Analysis;Computer+Science+Student;Lifelong+Learner" alt="Typing SVG" />
   </a>
 </p>
 
