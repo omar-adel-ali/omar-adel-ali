@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 - 🎓 I'm a **3rd-year Computer Science student**
-- 💻 Passionate about **.NET Backend Development**, **AI**, and **Machine Learning**
+- 💻 Passionate about **.NET Backend Development** , **Data Analysis** , **AI** , **Machine Learning**
 - 🛠 I’m currently building high-performance web application using ASP.NET Core with clean code, responsive design, and scalable architecture
 - 🤖 Exploring how to integrate **Machine Learning with .NET** applications
 - 📚 Currently learning advanced topics like **ASP.NET Identity**, **Dependency Injection**, and **Model Testing**
